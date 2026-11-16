@@ -1,0 +1,1036 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "id": "skillpack-selftest",
+      "kind": "skill",
+      "dir": "skills/skillpack-selftest",
+      "origin": "first-party",
+      "review": "full",
+      "tags": [
+        "diagnostics",
+        "skillpack"
+      ]
+    },
+    {
+      "id": "ask-matt",
+      "kind": "skill",
+      "dir": "skills/ask-matt",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "engineering",
+        "architecture"
+      ]
+    },
+    {
+      "id": "code-review",
+      "kind": "skill",
+      "dir": "skills/code-review",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "code-review",
+        "git"
+      ]
+    },
+    {
+      "id": "codebase-design",
+      "kind": "skill",
+      "dir": "skills/codebase-design",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "architecture",
+        "deep-modules"
+      ]
+    },
+    {
+      "id": "diagnosing-bugs",
+      "kind": "skill",
+      "dir": "skills/diagnosing-bugs",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "debugging",
+        "diagnostics"
+      ]
+    },
+    {
+      "id": "domain-modeling",
+      "kind": "skill",
+      "dir": "skills/domain-modeling",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "domain-model",
+        "architecture"
+      ]
+    },
+    {
+      "id": "grill-with-docs",
+      "kind": "skill",
+      "dir": "skills/grill-with-docs",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "interview",
+        "documentation"
+      ]
+    },
+    {
+      "id": "implement-spec",
+      "kind": "skill",
+      "dir": "skills/implement-spec",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "implementation",
+        "spec"
+      ]
+    },
+    {
+      "id": "implement",
+      "kind": "skill",
+      "dir": "skills/implement",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "implementation"
+      ]
+    },
+    {
+      "id": "improve-codebase-architecture",
+      "kind": "skill",
+      "dir": "skills/improve-codebase-architecture",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "architecture",
+        "refactoring"
+      ]
+    },
+    {
+      "id": "pr",
+      "kind": "skill",
+      "dir": "skills/pr",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "git",
+        "pr"
+      ]
+    },
+    {
+      "id": "prototype",
+      "kind": "skill",
+      "dir": "skills/prototype",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "prototyping",
+        "architecture"
+      ]
+    },
+    {
+      "id": "research",
+      "kind": "skill",
+      "dir": "skills/research",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "research",
+        "investigation"
+      ]
+    },
+    {
+      "id": "retro",
+      "kind": "skill",
+      "dir": "skills/retro",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "retrospective",
+        "process"
+      ]
+    },
+    {
+      "id": "setup-matt-pocock-skills",
+      "kind": "skill",
+      "dir": "skills/setup-matt-pocock-skills",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "setup"
+      ]
+    },
+    {
+      "id": "tdd",
+      "kind": "skill",
+      "dir": "skills/tdd",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "tdd",
+        "testing"
+      ]
+    },
+    {
+      "id": "to-spec",
+      "kind": "skill",
+      "dir": "skills/to-spec",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "spec",
+        "planning"
+      ]
+    },
+    {
+      "id": "to-tickets",
+      "kind": "skill",
+      "dir": "skills/to-tickets",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "tickets",
+        "planning"
+      ]
+    },
+    {
+      "id": "triage",
+      "kind": "skill",
+      "dir": "skills/triage",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "triage",
+        "bugs"
+      ]
+    },
+    {
+      "id": "wayfinder",
+      "kind": "skill",
+      "dir": "skills/wayfinder",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "navigation",
+        "codebase"
+      ]
+    },
+    {
+      "id": "wizard",
+      "kind": "skill",
+      "dir": "skills/wizard",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "bash",
+        "automation"
+      ]
+    },
+    {
+      "id": "chief-of-staff",
+      "kind": "skill",
+      "dir": "skills/chief-of-staff",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "productivity",
+        "orchestration"
+      ]
+    },
+    {
+      "id": "claude-handoff",
+      "kind": "skill",
+      "dir": "skills/claude-handoff",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "handoff",
+        "context"
+      ]
+    },
+    {
+      "id": "loop-me",
+      "kind": "skill",
+      "dir": "skills/loop-me",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "automation",
+        "loop"
+      ]
+    },
+    {
+      "id": "setup-ts-deep-modules",
+      "kind": "skill",
+      "dir": "skills/setup-ts-deep-modules",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "typescript",
+        "architecture"
+      ]
+    },
+    {
+      "id": "software-factory",
+      "kind": "skill",
+      "dir": "skills/software-factory",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/atpaawej/skills",
+      "pin": "d7e70b85121534f9ecbc5403213d9a4778268ce1",
+      "license": "MIT",
+      "tags": [
+        "automation",
+        "software-factory",
+        "afk-implementation"
+      ]
+    },
+    {
+      "id": "writing-beats",
+      "kind": "skill",
+      "dir": "skills/writing-beats",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "writing"
+      ]
+    },
+    {
+      "id": "writing-fragments",
+      "kind": "skill",
+      "dir": "skills/writing-fragments",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "writing"
+      ]
+    },
+    {
+      "id": "writing-shape",
+      "kind": "skill",
+      "dir": "skills/writing-shape",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "writing"
+      ]
+    },
+    {
+      "id": "git-guardrails-claude-code",
+      "kind": "skill",
+      "dir": "skills/git-guardrails-claude-code",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "git",
+        "safety"
+      ]
+    },
+    {
+      "id": "migrate-to-shoehorn",
+      "kind": "skill",
+      "dir": "skills/migrate-to-shoehorn",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "typescript",
+        "testing"
+      ]
+    },
+    {
+      "id": "scaffold-exercises",
+      "kind": "skill",
+      "dir": "skills/scaffold-exercises",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "scaffolding"
+      ]
+    },
+    {
+      "id": "setup-pre-commit",
+      "kind": "skill",
+      "dir": "skills/setup-pre-commit",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "git",
+        "pre-commit"
+      ]
+    },
+    {
+      "id": "grill-me",
+      "kind": "skill",
+      "dir": "skills/grill-me",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "interview",
+        "planning"
+      ]
+    },
+    {
+      "id": "grilling",
+      "kind": "skill",
+      "dir": "skills/grilling",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "handoff",
+      "kind": "skill",
+      "dir": "skills/handoff",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "handoff"
+      ]
+    },
+    {
+      "id": "teach",
+      "kind": "skill",
+      "dir": "skills/teach",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "teaching",
+        "explanation"
+      ]
+    },
+    {
+      "id": "to-questionnaire",
+      "kind": "skill",
+      "dir": "skills/to-questionnaire",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "questionnaire"
+      ]
+    },
+    {
+      "id": "wait-what",
+      "kind": "skill",
+      "dir": "skills/wait-what",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "diagnostics"
+      ]
+    },
+    {
+      "id": "writing-for-agents",
+      "kind": "skill",
+      "dir": "skills/writing-for-agents",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/mattpocock/skills",
+      "pin": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "license": "MIT",
+      "tags": [
+        "prompt-engineering",
+        "agents"
+      ]
+    },
+    {
+      "id": "animate",
+      "kind": "skill",
+      "dir": "skills/animate",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "animation",
+        "motion",
+        "web"
+      ]
+    },
+    {
+      "id": "animate-expo",
+      "kind": "skill",
+      "dir": "skills/animate-expo",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "animation",
+        "expo",
+        "react-native"
+      ]
+    },
+    {
+      "id": "animation-performance",
+      "kind": "skill",
+      "dir": "skills/animation-performance",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "animation",
+        "performance",
+        "css"
+      ]
+    },
+    {
+      "id": "animation-vocabulary",
+      "kind": "skill",
+      "dir": "skills/animation-vocabulary",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "animation",
+        "terminology"
+      ]
+    },
+    {
+      "id": "apple-design",
+      "kind": "skill",
+      "dir": "skills/apple-design",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "ui-design",
+        "apple",
+        "gestures"
+      ]
+    },
+    {
+      "id": "ask-emil",
+      "kind": "skill",
+      "dir": "skills/ask-emil",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "router",
+        "design"
+      ]
+    },
+    {
+      "id": "ask-sonner",
+      "kind": "skill",
+      "dir": "skills/ask-sonner",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "toast",
+        "react"
+      ]
+    },
+    {
+      "id": "better-typography",
+      "kind": "skill",
+      "dir": "skills/better-typography",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "typography",
+        "design",
+        "css"
+      ]
+    },
+    {
+      "id": "break-ui",
+      "kind": "skill",
+      "dir": "skills/break-ui",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "ui-testing",
+        "qa",
+        "edge-cases"
+      ]
+    },
+    {
+      "id": "choreograph",
+      "kind": "skill",
+      "dir": "skills/choreograph",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "motion",
+        "animation",
+        "staggers"
+      ]
+    },
+    {
+      "id": "emil-design-eng",
+      "kind": "skill",
+      "dir": "skills/emil-design-eng",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "design-engineering",
+        "ui-polish"
+      ]
+    },
+    {
+      "id": "find-animation-opportunities",
+      "kind": "skill",
+      "dir": "skills/find-animation-opportunities",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "motion",
+        "animation-audit"
+      ]
+    },
+    {
+      "id": "gestures",
+      "kind": "skill",
+      "dir": "skills/gestures",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "gestures",
+        "touch",
+        "mobile"
+      ]
+    },
+    {
+      "id": "improve-animations",
+      "kind": "skill",
+      "dir": "skills/improve-animations",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "animation-audit",
+        "motion"
+      ]
+    },
+    {
+      "id": "learn-taste",
+      "kind": "skill",
+      "dir": "skills/learn-taste",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "design-taste",
+        "rules"
+      ]
+    },
+    {
+      "id": "mobile-native",
+      "kind": "skill",
+      "dir": "skills/mobile-native",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "mobile-web",
+        "css",
+        "ux"
+      ]
+    },
+    {
+      "id": "pick-ui-library",
+      "kind": "skill",
+      "dir": "skills/pick-ui-library",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "libraries",
+        "frontend"
+      ]
+    },
+    {
+      "id": "prototype-variants",
+      "kind": "skill",
+      "dir": "skills/prototype-variants",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "prototyping",
+        "ui-variants"
+      ]
+    },
+    {
+      "id": "remove-animations",
+      "kind": "skill",
+      "dir": "skills/remove-animations",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "animation",
+        "performance"
+      ]
+    },
+    {
+      "id": "review-animations",
+      "kind": "skill",
+      "dir": "skills/review-animations",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "animation-review",
+        "motion"
+      ]
+    },
+    {
+      "id": "write-swift",
+      "kind": "skill",
+      "dir": "skills/write-swift",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/emilkowalski/skills",
+      "pin": "64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+      "license": "MIT",
+      "tags": [
+        "swift",
+        "ios",
+        "concurrency"
+      ]
+    },
+    {
+      "id": "frontend-design",
+      "kind": "skill",
+      "dir": "skills/frontend-design",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/anthropics/skills",
+      "pin": "1780c5e5a552fd4d1c9d6a7b0cab26b0c2bef064",
+      "license": "Custom / Anthropic",
+      "tags": [
+        "frontend",
+        "ui-design",
+        "aesthetic-direction"
+      ]
+    },
+    {
+      "id": "copywriting",
+      "kind": "skill",
+      "dir": "skills/copywriting",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "pin": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "tags": [
+        "copywriting",
+        "conversion"
+      ]
+    },
+    {
+      "id": "seo-audit",
+      "kind": "skill",
+      "dir": "skills/seo-audit",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "pin": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "tags": [
+        "seo",
+        "audit",
+        "performance"
+      ]
+    },
+    {
+      "id": "programmatic-seo",
+      "kind": "skill",
+      "dir": "skills/programmatic-seo",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "pin": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "tags": [
+        "seo",
+        "templates",
+        "scale"
+      ]
+    },
+    {
+      "id": "cro",
+      "kind": "skill",
+      "dir": "skills/cro",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "pin": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "tags": [
+        "conversion-rate-optimization",
+        "landing-pages"
+      ]
+    },
+    {
+      "id": "marketing-psychology",
+      "kind": "skill",
+      "dir": "skills/marketing-psychology",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "pin": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "tags": [
+        "psychology",
+        "framing"
+      ]
+    },
+    {
+      "id": "content-strategy",
+      "kind": "skill",
+      "dir": "skills/content-strategy",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "pin": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "tags": [
+        "content",
+        "strategy"
+      ]
+    },
+    {
+      "id": "cold-email",
+      "kind": "skill",
+      "dir": "skills/cold-email",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "pin": "1f837447b20bb6f0e72d87b80ece1c221c362c7d",
+      "license": "MIT",
+      "tags": [
+        "outreach",
+        "email",
+        "b2b"
+      ]
+    },
+    {
+      "id": "supabase-postgres-best-practices",
+      "kind": "skill",
+      "dir": "skills/supabase-postgres-best-practices",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/supabase/agent-skills",
+      "pin": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "license": "MIT",
+      "tags": [
+        "database",
+        "postgres",
+        "performance",
+        "sql"
+      ]
+    },
+    {
+      "id": "prisma-client-api",
+      "kind": "skill",
+      "dir": "skills/prisma-client-api",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/prisma/skills",
+      "pin": "a6f192959cf43b08aa330fe1ffca090267215812",
+      "license": "MIT",
+      "tags": [
+        "database",
+        "prisma",
+        "orm",
+        "typescript"
+      ]
+    },
+    {
+      "id": "clarity",
+      "kind": "skill",
+      "dir": "skills/clarity",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/atpaawej/skills",
+      "pin": "d7e70b85121534f9ecbc5403213d9a4778268ce1",
+      "license": "MIT",
+      "tags": [
+        "thinking",
+        "decision-making",
+        "problem-solving"
+      ]
+    },
+    {
+      "id": "persuasion",
+      "kind": "skill",
+      "dir": "skills/persuasion",
+      "origin": "vendored",
+      "review": "full",
+      "source": "https://github.com/atpaawej/skills",
+      "pin": "d7e70b85121534f9ecbc5403213d9a4778268ce1",
+      "license": "MIT",
+      "tags": [
+        "persuasion",
+        "psychology",
+        "communication",
+        "framing"
+      ]
+    }
+  ]
+}

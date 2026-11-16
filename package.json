@@ -1,0 +1,45 @@
+{
+  "name": "opencode-skillpack",
+  "version": "0.1.0",
+  "description": "A curated pack of agent skills for OpenCode, installed as a plugin",
+  "type": "module",
+  "license": "MIT",
+  "author": "Aawej Pathan <atpaawej@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atpaawej/opencode-skillpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atpaawej/opencode-skillpack/issues"
+  },
+  "homepage": "https://github.com/atpaawej/opencode-skillpack#readme",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "files": [
+    "src",
+    "skills",
+    "catalog.json",
+    "README.md",
+    "install.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "agent-skills",
+    "skills"
+  ],
+  "dependencies": {
+    "@opencode/plugin": "^2.3.0"
+  },
+  "scripts": {
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.4",
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
