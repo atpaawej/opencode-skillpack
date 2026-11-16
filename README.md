@@ -11,10 +11,12 @@
 Copy and paste this prompt directly to your OpenCode agent:
 
 ```text
-Read install.md and install the opencode-skillpack plugin for me.
+Fetch and follow instructions from https://raw.githubusercontent.com/atpaawej/opencode-skillpack/main/install.md to install and configure the opencode-skillpack plugin for my OpenCode setup.
 ```
 
-*Your agent will inspect your local or global `opencode.json`, register the plugin, and verify the installation in seconds without overwriting any existing configuration.*
+*(Or if you are working directly inside this cloned repository: `Read ./install.md and install the opencode-skillpack plugin for me.`)*
+
+*Your agent will read the guide, check whether you prefer a project-scoped (`./opencode.json`) or global (`~/.config/opencode/opencode.json`) setup, register the plugin safely without touching other configuration, and verify installation with self-diagnostics.*
 
 ### Option B: Manual 10-Second Install
 
